@@ -19,7 +19,7 @@ The objective is to clean and prepare the datasets, explore customer purchasing 
 
 # Dashboard / Visualizations
 
-## 1. Average Revenue by Discount Status |  ## 2. Revenue Comparison
+## 1. Average Revenue by Discount Status | 2. Revenue Comparison
 
 
 ![Average Revenue](images/charts_01.png) | ![Revenue Comparison](images/charts_02_01.png)
