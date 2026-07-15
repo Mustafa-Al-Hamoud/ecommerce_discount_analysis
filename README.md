@@ -17,47 +17,36 @@ The objective is to clean and prepare the datasets, explore customer purchasing 
 
 ---
 
-# Dashboard / Visualizations
+# Dashboard 
+# Visualizations
 
-|1. Average Revenue by Discount Status | 2. Revenue Comparison⁄
+### Revenue Overview
 
+<p align="center">
+  <img src="images/charts_01.png" width="32%">
+  <img src="images/charts_02_01.png" width="32%">
+  <img src="images/charts_02_02.png" width="32%">
+</p>
 
-|![Average Revenue](images/charts_01.png) | ![Revenue Comparison](images/charts_02_01.png)|
+### Discount Analysis
 
+<p align="center">
+  <img src="images/charts_03_01.png" width="49%">
+  <img src="images/charts_03_02.png" width="49%">
+</p>
 
-## 3. Revenue Distribution
+### Sales Analysis
 
-![Revenue Distribution](images/charts_02_02.png)
+<p align="center">
+  <img src="images/charts_04_01.png" width="49%">
+  <img src="images/charts_04_02.png" width="49%">
+</p>
 
----
+### Final Dashboard
 
-## 4. Discount Analysis
-
-![Discount Analysis](images/charts_03_01.png)
-
----
-
-## 5. Revenue Analysis
-
-![Revenue Analysis](images/charts_03_02.png)
-
----
-
-## 6. Sales Analysis
-
-![Sales Analysis](images/charts_04_01.png)
-
----
-
-## 7. Additional Analysis
-
-![Additional Analysis](images/charts_04_02.png)
-
----
-
-## 8. Final Overview
-
-![Final Overview](images/charts_05.png)
+<p align="center">
+  <img src="images/charts_05.png" width="70%">
+</p>
 
 ### Discount Distribution
 
