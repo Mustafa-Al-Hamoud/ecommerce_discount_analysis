@@ -59,11 +59,7 @@ These charts analyze the relationship between discount levels and revenue during
 **Figure 4 – Final Dashboard**
 
 This dashboard summarizes the key insights of the discount strategy analysis and highlights the overall business performance.
-### Discount Distribution
 
-*(Insert another chart if available)*
-
----
 
 ## Project Workflow
 
