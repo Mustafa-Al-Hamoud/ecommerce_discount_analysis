@@ -26,27 +26,37 @@ The objective is to clean and prepare the datasets, explore customer purchasing 
   <img src="images/charts_02_01.png" width="29%">
   <img src="images/charts_02_02.png" width="29%">
 </p>
+**Figure 1 – Revenue Overview**
 
+- **Chart 1:** Compares the average revenue of discounted and non-discounted products.
+- **Chart 2:** Shows the average monthly discounted sales during the normal and peak seasons.
+- **Chart 3:** Compares the average revenue of discounted products between peak and normal seasons.
 ### Discount Analysis
 
 <p align="center">
   <img src="images/charts_03_01.png" width="49%">
   <img src="images/charts_03_02.png" width="49%">
 </p>
+**Figure 2 – Discount Analysis**
 
+These charts illustrate how different discount levels affect both the average revenue and the number of sales during the normal season.
 ### Sales Analysis
 
 <p align="center">
   <img src="images/charts_04_01.png" width="49%">
   <img src="images/charts_04_02.png" width="49%">
 </p>
+**Figure 3 – Sales Analysis**
 
+These charts analyze the relationship between discount levels and revenue during the peak season.
 ### Final Dashboard
 
 <p align="center">
   <img src="images/charts_05.png" width="70%">
 </p>
+**Figure 4 – Final Dashboard**
 
+This dashboard summarizes the key insights of the discount strategy analysis and highlights the overall business performance.
 ### Discount Distribution
 
 *(Insert another chart if available)*
