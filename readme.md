@@ -29,8 +29,7 @@
 
 This project analyzes the impact of discount strategies on sales performance in an e-commerce environment. The analysis focuses on understanding how different discount levels influence revenue, sales volume, and customer purchasing behavior during both **Normal Season** and **Peak Season**.
 
-The dataset is based on a fictional company (**Eniac**) and is used solely for educational purposes. The business questions, analysis process, and recommendations reflect real-world data analytics practices.
-
+This project analyzes sales data from (**Eniac**) as part of a data analytics training project. The objective is to explore discount strategies and generate business insights based on the available dataset.
 This project demonstrates the complete workflow of a data analysis project, starting from raw data cleaning and quality assessment to exploratory analysis, visualization, and business recommendations.
 
 ---
