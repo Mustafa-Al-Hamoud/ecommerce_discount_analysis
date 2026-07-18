@@ -18,7 +18,7 @@
 </a>
 
 <a href="YOUR_PRESENTATION_LINK">
-<img src="[https://img.shields.io/badge/Presentation-View%20Slides-blue?style=for-the-badge&logo=microsoftpowerpoint](https://github.com/Mustafa-Al-Hamoud/ecommerce_discount_analysis/blob/main/presentation/Die_Rabattstrategie_von_ENIAC.pptx)">
+<img src="https://img.shields.io/badge/Presentation-View%20Slides-blue?style=for-the-badge&logo=microsoftpowerpoint">
 </a>
 
 </p>
