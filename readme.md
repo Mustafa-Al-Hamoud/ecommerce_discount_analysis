@@ -13,7 +13,7 @@
 
 <p align="center">
 
-<a href="[YOUR_COLAB_LINK]">
+<a href="https://github.com/Mustafa-Al-Hamoud/ecommerce_discount_analysis/blob/main/notebook/04_Business_Analysis.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
